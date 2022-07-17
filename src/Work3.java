@@ -83,6 +83,8 @@ public class Work3 {
             case 11:
                 System.out.println("сейчас осень");
                 break;
+            default:
+                System.out.println("Такого месяца не существует");
         }
 
 
